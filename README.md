@@ -15,25 +15,31 @@ Here is all about me :3
 ## 🛠️ Skills
 
 ### **Languages**
-![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql.png) 
-![PHP](https://img.icons8.com/ios-filled/50/000000/php-logo.png) 
-![HTML](https://img.icons8.com/ios-filled/50/000000/html-5.png)
-![Python](https://img.icons8.com/ios-filled/50/000000/python.png)
-![CSS](https://img.icons8.com/ios-filled/50/000000/css3.png)
-![Node.js](https://img.icons8.com/ios-filled/50/000000/node-js.png)
+- MySQL : [https://www.mysql.com/](https://www.mysql.com/)
+- PHP : [https://www.php.net/](https://www.php.net/)
+- HTML : [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- Python : [https://www.python.org/](https://www.python.org/)
+- CSS : [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- Node.js : [https://nodejs.org/](https://nodejs.org/)
 
 ### **Software**
-![Apache2](https://img.icons8.com/ios-filled/50/000000/apache.png) 
-![Nginx](https://img.icons8.com/ios-filled/50/000000/nginx.png) 
-![Git](https://img.icons8.com/ios-filled/50/000000/git.png)
-![VSCode](https://img.icons8.com/ios-filled/50/000000/visual-studio-code.png)
-![OBS](https://img.icons8.com/ios-filled/50/000000/obs-studio.png) 
-![Clipchamp](https://img.icons8.com/ios-filled/50/000000/clipchamp.png)
+- Apache2 : [https://httpd.apache.org/](https://httpd.apache.org/)
+- Nginx : [https://nginx.org/](https://nginx.org/)
+- Git : [https://git-scm.com/](https://git-scm.com/)
+- VSCode : [https://code.visualstudio.com/](https://code.visualstudio.com/)
+- OBS : [https://obsproject.com/](https://obsproject.com/)
+- Clipchamp : [https://www.clipchamp.com/](https://www.clipchamp.com/)
+
+### **Cybersecurity**
+- Vulnerability Assessment : [https://owasp.org/](https://owasp.org/)
+- Bug Bounty Programs : [https://www.hackerone.com/](https://www.hackerone.com/)
+- Penetration Testing : [https://www.offensive-security.com/](https://www.offensive-security.com/)
+- Network Security : [https://www.cisco.com/c/en/us/solutions/enterprise-networks/security.html](https://www.cisco.com/c/en/us/solutions/enterprise-networks/security.html)
 
 ### **Cloud**
-![AWS](https://img.icons8.com/ios-filled/50/000000/amazon-web-services.png) 
-![Google Cloud](https://img.icons8.com/ios-filled/50/000000/google-cloud.png) 
-![Azure](https://img.icons8.com/ios-filled/50/000000/microsoft-azure.png)
+- AWS : [https://aws.amazon.com/](https://aws.amazon.com/)
+- Google Cloud : [https://cloud.google.com/](https://cloud.google.com/)
+- Azure : [https://azure.microsoft.com/](https://azure.microsoft.com/))
 
 ## 💻 About Me
 
