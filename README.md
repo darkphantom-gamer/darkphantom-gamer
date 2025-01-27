@@ -41,7 +41,7 @@ Here is all about me :3
 
 ## 📈 GitHub Stats
 
-![Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammwyy&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Himamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username-here&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 📫 How to reach me:
 
