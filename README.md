@@ -12,25 +12,23 @@ Here is all about me :3
 - 📄 **Website**: [https://gainways.online](https://gainways.online)
 ## 🛠️ Skills
 
-## 🛠️ Skills
-
 ### **Languages**
-![MySQL](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg =40x40)
-![PHP](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/php.svg =40x40)
-![HTML](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg =40x40)
-![Python](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg =40x40)
-![CSS](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg =40x40)
-![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/node-dot-js.svg =40x40)
+![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql.png) 
+![PHP](https://img.icons8.com/ios-filled/50/000000/php-logo.png) 
+![HTML](https://img.icons8.com/ios-filled/50/000000/html-5.png)
+![Python](https://img.icons8.com/ios-filled/50/000000/python.png)
+![CSS](https://img.icons8.com/ios-filled/50/000000/css3.png)
+![Node.js](https://img.icons8.com/ios-filled/50/000000/node-js.png)
 
 ### **Software**
-![Apache2](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apache.svg =40x40)
-![Nginx](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nginx.svg =40x40)
-![Git](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg =40x40)
-![VSCode](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg =40x40)
-![OBS](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/obsstudio.svg =40x40)
-![Clipchamp](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/clipchamp.svg =40x40)
+![Apache2](https://img.icons8.com/ios-filled/50/000000/apache.png) 
+![Nginx](https://img.icons8.com/ios-filled/50/000000/nginx.png) 
+![Git](https://img.icons8.com/ios-filled/50/000000/git.png)
+![VSCode](https://img.icons8.com/ios-filled/50/000000/visual-studio-code.png)
+![OBS](https://img.icons8.com/ios-filled/50/000000/obs-studio.png) 
+![Clipchamp](https://img.icons8.com/ios-filled/50/000000/clipchamp.png)
 
 ### **Cloud**
-![AWS](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/amazonaws.svg =40x40)
-![Google Cloud](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googlecloud.svg =40x40)
-![Azure](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftazure.svg =40x40)
+![AWS](https://img.icons8.com/ios-filled/50/000000/amazon-web-services.png) 
+![Google Cloud](https://img.icons8.com/ios-filled/50/000000/google-cloud.png) 
+![Azure](https://img.icons8.com/ios-filled/50/000000/microsoft-azure.png)
