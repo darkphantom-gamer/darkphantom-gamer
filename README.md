@@ -10,3 +10,25 @@ Here is all about me :3
 - 😄 **Pronouns**: Assult Rifle! jk he/him
 - ⚡ **Fun fact**: Every 60 seconds in Asia makes a minute
 - 📄 **Website**: [https://gainways.online](https://gainways.online)
+## 🛠️ Skills
+
+### **Languages**
+- **MySQL** 
+- **PHP**
+- **HTML**
+- **Python**
+- **CSS**
+- **Node.js**
+
+### **Software**
+- **Apache2**
+- **Nginx**
+- **Git**
+- **VSCode**
+- **OBS**
+- **Clipchamp**
+
+### **Cloud**
+- **AWS**
+- **Google Cloud**
+- **Azure**
