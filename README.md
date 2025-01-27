@@ -12,23 +12,25 @@ Here is all about me :3
 - 📄 **Website**: [https://gainways.online](https://gainways.online)
 ## 🛠️ Skills
 
+## 🛠️ Skills
+
 ### **Languages**
-[![MySQL](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg =50x50)](https://www.mysql.com/)
-[![PHP](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/php.svg =50x50)](https://www.php.net/)
-[![HTML](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg =50x50)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Python](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg =50x50)](https://www.python.org/)
-[![CSS](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg =50x50)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/node-dot-js.svg =50x50)](https://nodejs.org/)
+![MySQL](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg =40x40)
+![PHP](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/php.svg =40x40)
+![HTML](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg =40x40)
+![Python](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg =40x40)
+![CSS](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg =40x40)
+![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/node-dot-js.svg =40x40)
 
 ### **Software**
-[![Apache2](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apache.svg =50x50)](https://httpd.apache.org/)
-[![Nginx](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nginx.svg =50x50)](https://nginx.org/)
-[![Git](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg =50x50)](https://git-scm.com/)
-[![VSCode](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg =50x50)](https://code.visualstudio.com/)
-[![OBS](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/obsstudio.svg =50x50)](https://obsproject.com/)
-[![Clipchamp](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/clipchamp.svg =50x50)](https://www.clipchamp.com/)
+![Apache2](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apache.svg =40x40)
+![Nginx](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nginx.svg =40x40)
+![Git](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg =40x40)
+![VSCode](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg =40x40)
+![OBS](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/obsstudio.svg =40x40)
+![Clipchamp](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/clipchamp.svg =40x40)
 
 ### **Cloud**
-[![AWS](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/amazonaws.svg =50x50)](https://aws.amazon.com/)
-[![Google Cloud](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googlecloud.svg =50x50)](https://cloud.google.com/)
-[![Azure](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftazure.svg =50x50)](https://azure.microsoft.com/)
+![AWS](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/amazonaws.svg =40x40)
+![Google Cloud](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googlecloud.svg =40x40)
+![Azure](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftazure.svg =40x40)
