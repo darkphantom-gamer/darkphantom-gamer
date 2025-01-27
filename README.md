@@ -14,7 +14,7 @@ Here is all about me :3
 
 ## 🛠️ Skills
 
-### **Languages**
+### **Languages** 💻
 - MySQL : [https://www.mysql.com/](https://www.mysql.com/)
 - PHP : [https://www.php.net/](https://www.php.net/)
 - HTML : [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -22,7 +22,7 @@ Here is all about me :3
 - CSS : [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - Node.js : [https://nodejs.org/](https://nodejs.org/)
 
-### **Software**
+### **Software** 🛠️
 - Apache2 : [https://httpd.apache.org/](https://httpd.apache.org/)
 - Nginx : [https://nginx.org/](https://nginx.org/)
 - Git : [https://git-scm.com/](https://git-scm.com/)
@@ -30,16 +30,16 @@ Here is all about me :3
 - OBS : [https://obsproject.com/](https://obsproject.com/)
 - Clipchamp : [https://www.clipchamp.com/](https://www.clipchamp.com/)
 
-### **Cybersecurity**
+### **Cybersecurity** 🔒
 - Vulnerability Assessment : [https://owasp.org/](https://owasp.org/)
 - Bug Bounty Programs : [https://www.hackerone.com/](https://www.hackerone.com/)
 - Penetration Testing : [https://www.offensive-security.com/](https://www.offensive-security.com/)
 - Network Security : [https://www.cisco.com/c/en/us/solutions/enterprise-networks/security.html](https://www.cisco.com/c/en/us/solutions/enterprise-networks/security.html)
 
-### **Cloud**
+### **Cloud** ☁️
 - AWS : [https://aws.amazon.com/](https://aws.amazon.com/)
 - Google Cloud : [https://cloud.google.com/](https://cloud.google.com/)
-- Azure : [https://azure.microsoft.com/](https://azure.microsoft.com/))
+- Azure : [https://azure.microsoft.com/](https://azure.microsoft.com/)
 
 ## 💻 About Me
 
