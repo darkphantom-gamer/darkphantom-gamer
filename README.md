@@ -13,22 +13,28 @@ Here is all about me :3
 ## 🛠️ Skills
 
 ### **Languages**
-![MySQL](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/mysql.svg)
-![PHP](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/php.svg)
-![HTML](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/html5.svg)
-![Python](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/python.svg)
-![CSS](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/css3.svg)
-![Node.js](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/node-dot-js.svg)
+<p align="center">
+  ![MySQL](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/mysql.svg =40x40)
+  ![PHP](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/php.svg =40x40)
+  ![HTML](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/html5.svg =40x40)
+  ![Python](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/python.svg =40x40)
+  ![CSS](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/css3.svg =40x40)
+  ![Node.js](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/node-dot-js.svg =40x40)
+</p>
 
 ### **Software**
-![Apache2](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/apache.svg)
-![Nginx](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/nginx.svg)
-![Git](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/git.svg)
-![VSCode](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/visualstudiocode.svg)
-![OBS](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/obsstudio.svg)
-![Clipchamp](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/clipchamp.svg)
+<p align="center">
+  ![Apache2](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/apache.svg =40x40)
+  ![Nginx](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/nginx.svg =40x40)
+  ![Git](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/git.svg =40x40)
+  ![VSCode](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/visualstudiocode.svg =40x40)
+  ![OBS](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/obsstudio.svg =40x40)
+  ![Clipchamp](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/clipchamp.svg =40x40)
+</p>
 
 ### **Cloud**
-![AWS](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/amazonaws.svg)
-![Google Cloud](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/googlecloud.svg)
-![Azure](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/microsoftazure.svg)
+<p align="center">
+  ![AWS](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/amazonaws.svg =40x40)
+  ![Google Cloud](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/googlecloud.svg =40x40)
+  ![Azure](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/microsoftazure.svg =40x40)
+</p>
