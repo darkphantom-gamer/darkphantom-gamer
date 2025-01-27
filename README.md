@@ -10,6 +10,7 @@ Here is all about me :3
 - 😄 **Pronouns**: Assult Rifle! jk he/him
 - ⚡ **Fun fact**: Every 60 seconds in Asia makes a minute
 - 📄 **Website**: [https://gainways.online](https://gainways.online)
+
 ## 🛠️ Skills
 
 ### **Languages**
@@ -32,3 +33,19 @@ Here is all about me :3
 ![AWS](https://img.icons8.com/ios-filled/50/000000/amazon-web-services.png) 
 ![Google Cloud](https://img.icons8.com/ios-filled/50/000000/google-cloud.png) 
 ![Azure](https://img.icons8.com/ios-filled/50/000000/microsoft-azure.png)
+
+## 💻 About Me
+
+- I specialize in building efficient and scalable AI tools and have experience in web development and cloud solutions.
+- I'm an IT admin by profession, and I'm always looking for new ways to innovate and help businesses grow.
+
+## 📈 GitHub Stats
+
+![Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sammwyy&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 📫 How to reach me:
+
+- [Email me!](mailto:himkamal@gainways.online)
+- [Website](https://gainways.online)
+
+## 🌟 Let's connect and build something great!
