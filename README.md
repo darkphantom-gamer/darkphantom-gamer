@@ -12,7 +12,6 @@ Here is all about me :3
 - 📄 **Website**: [https://gainways.online](https://gainways.online)
 ## 🛠️ Skills
 
-## 🛠️ Skills
 
 ### **Languages**
 [![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql.png)](https://www.mysql.com/)
