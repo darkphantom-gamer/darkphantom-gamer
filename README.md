@@ -46,7 +46,7 @@ Here is all about me :3
 
 ## 📫 How to reach me:
 
-- ```[Email me!]```(mailto:himkamal@gainways.online)
-- ```[Website]```(https://gainways.online)
+- [Email me!](mailto:himkamal@gainways.online)
+- [Website](https://gainways.online)
 
 ## 🌟 Let's connect and build something great!
