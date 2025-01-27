@@ -2,14 +2,15 @@
 
 Here is all about me :3
 
-- 🔭 **I’m currently working on**: Vulnerability assessment & Bug bounty
-- 🌱 **I’m currently**: learning AI & Neural Network
-- 👯 **I’m looking to collaborate on**: Anything :D
-- ⚡ **I'm**: 18 y/o
-- 📧 **Email**: himkamal@gainways.online
-- 😄 **Pronouns**: Assult Rifle! jk he/him
-- ⚡ **Fun fact**: Every 60 seconds in Asia makes a minute
-- 📄 **Website**: [https://gainways.online](https://gainways.online)
+- 🔭 ```
+    **I’m currently working on**:``` Vulnerability assessment & Bug bounty
+- 🌱``` **I’m currently**:``` learning AI & Neural Network
+- 👯 ```**I’m looking to collaborate on**: ```Anything :D
+- ⚡ ```**I'm**:``` 18 y/o
+- 📧 ```**Email**:``` himkamal@gainways.online
+- 😄 ```**Pronouns**:``` Assult Rifle! jk he/him
+- ⚡``` **Fun fact**:``` Every 60 seconds in Asia makes a minute
+- 📄 ```**Website**:``` [https://gainways.online](https://gainways.online)
 
 ## 🛠️ Skills
 
@@ -37,7 +38,7 @@ Here is all about me :3
 ## 💻 About Me
 
 - I specialize in building efficient and scalable AI tools and have experience in web development and cloud solutions.
-- I'm an IT admin by profession, and I'm always looking for new ways to innovate and help businesses grow.
+- ```I'm an IT admin by profession```, and I'm always looking for new ways to innovate and help businesses grow.
 
 ## 📈 GitHub Stats
 
@@ -45,7 +46,7 @@ Here is all about me :3
 
 ## 📫 How to reach me:
 
-- [Email me!](mailto:himkamal@gainways.online)
-- [Website](https://gainways.online)
+- ```[Email me!]```(mailto:himkamal@gainways.online)
+- ```[Website]```(https://gainways.online)
 
 ## 🌟 Let's connect and build something great!
