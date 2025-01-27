@@ -12,24 +12,23 @@ Here is all about me :3
 - 📄 **Website**: [https://gainways.online](https://gainways.online)
 ## 🛠️ Skills
 
-
 ### **Languages**
-[![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql.png)](https://www.mysql.com/)
-[![PHP](https://img.icons8.com/ios-filled/50/000000/php-logo.png)](https://www.php.net/)
-[![HTML](https://img.icons8.com/ios-filled/50/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Python](https://img.icons8.com/ios-filled/50/000000/python.png)](https://www.python.org/)
-[![CSS](https://img.icons8.com/ios-filled/50/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Node.js](https://img.icons8.com/ios-filled/50/000000/node-js.png)](https://nodejs.org/)
+[![MySQL](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg)](https://www.mysql.com/)
+[![PHP](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/php.svg)](https://www.php.net/)
+[![HTML](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Python](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg)](https://www.python.org/)
+[![CSS](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/node-dot-js.svg)](https://nodejs.org/)
 
 ### **Software**
-[![Apache2](https://img.icons8.com/ios-filled/50/000000/apache.png)](https://httpd.apache.org/)
-[![Nginx](https://img.icons8.com/ios-filled/50/000000/nginx.png)](https://nginx.org/)
-[![Git](https://img.icons8.com/ios-filled/50/000000/git.png)](https://git-scm.com/)
-[![VSCode](https://img.icons8.com/ios-filled/50/000000/visual-studio-code.png)](https://code.visualstudio.com/)
-[![OBS](https://img.icons8.com/ios-filled/50/000000/obs-studio.png)](https://obsproject.com/)
-[![Clipchamp](https://img.icons8.com/ios-filled/50/000000/clipchamp.png)](https://www.clipchamp.com/)
+[![Apache2](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/apache.svg)](https://httpd.apache.org/)
+[![Nginx](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nginx.svg)](https://nginx.org/)
+[![Git](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg)](https://git-scm.com/)
+[![VSCode](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/visualstudiocode.svg)](https://code.visualstudio.com/)
+[![OBS](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/obsstudio.svg)](https://obsproject.com/)
+[![Clipchamp](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/clipchamp.svg)](https://www.clipchamp.com/)
 
 ### **Cloud**
-[![AWS](https://img.icons8.com/ios-filled/50/000000/amazon-web-services.png)](https://aws.amazon.com/)
-[![Google Cloud](https://img.icons8.com/ios-filled/50/000000/google-cloud.png)](https://cloud.google.com/)
-[![Azure](https://img.icons8.com/ios-filled/50/000000/microsoft-azure.png)](https://azure.microsoft.com/)
+[![AWS](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/amazonaws.svg)](https://aws.amazon.com/)
+[![Google Cloud](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googlecloud.svg)](https://cloud.google.com/)
+[![Azure](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/microsoftazure.svg)](https://azure.microsoft.com/)
