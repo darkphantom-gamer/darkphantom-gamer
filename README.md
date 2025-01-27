@@ -12,25 +12,23 @@ Here is all about me :3
 - 📄 **Website**: [https://gainways.online](https://gainways.online)
 ## 🛠️ Skills
 
-## 🛠️ Skills
-
 ### **Languages**
-- [MySQL](https://www.mysql.com/)
-- [PHP](https://www.php.net/)
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [Python](https://www.python.org/)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Node.js](https://nodejs.org/)
+- 🗃️ [MySQL](https://www.mysql.com/)
+- 🧑‍💻 [PHP](https://www.php.net/)
+- 🌐 [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- 🐍 [Python](https://www.python.org/)
+- 🎨 [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- 🟩 [Node.js](https://nodejs.org/)
 
 ### **Software**
-- [Apache2](https://httpd.apache.org/)
-- [Nginx](https://nginx.org/)
-- [Git](https://git-scm.com/)
-- [VSCode](https://code.visualstudio.com/)
-- [OBS](https://obsproject.com/)
-- [Clipchamp](https://www.clipchamp.com/)
+- 🧰 [Apache2](https://httpd.apache.org/)
+- 🔄 [Nginx](https://nginx.org/)
+- 🌳 [Git](https://git-scm.com/)
+- 🖥️ [VSCode](https://code.visualstudio.com/)
+- 🎥 [OBS](https://obsproject.com/)
+- ✂️ [Clipchamp](https://www.clipchamp.com/)
 
 ### **Cloud**
-- [AWS](https://aws.amazon.com/)
-- [Google Cloud](https://cloud.google.com/)
-- [Azure](https://azure.microsoft.com/)
+- ☁️ [AWS](https://aws.amazon.com/)
+- 🌍 [Google Cloud](https://cloud.google.com/)
+- 🔵 [Azure](https://azure.microsoft.com/)
