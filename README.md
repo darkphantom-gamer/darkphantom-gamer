@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**darkphantom-gamer/darkphantom-gamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+{  !--
 
-Here are some ideas to get you started:
+Here is all about me :3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>- 🔭 I’m currently working on:</div> Vulneblity assessment & Bug bounty
+- 🌱 <div>I’m currently:</div> learning AI & Neural Network
+- <div>👯 I’m looking to collaborate on</div> Anything :D 
+- <div>⚡ I'm:</div>18 y/o
+- 📧<div>Email:</div>himkamal@gainways.online
+- 😄 <div>Pronouns:</div> Assult Rifle! jk he/him
+- ⚡ <div>Fun fact:</div> Every 60 secounds in Asia makes a minute
+- 📄<div>Website:</div>https://gainways.online
+
+}
