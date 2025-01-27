@@ -13,22 +13,22 @@ Here is all about me :3
 ## 🛠️ Skills
 
 ### **Languages**
-![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql.png) 
-![PHP](https://img.icons8.com/ios-filled/50/000000/php-logo.png) 
-![HTML](https://img.icons8.com/ios-filled/50/000000/html-5.png)
-![Python](https://img.icons8.com/ios-filled/50/000000/python.png)
-![CSS](https://img.icons8.com/ios-filled/50/000000/css3.png)
-![Node.js](https://img.icons8.com/ios-filled/50/000000/node-js.png)
+![MySQL](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/mysql.svg)
+![PHP](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/php.svg)
+![HTML](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/html5.svg)
+![Python](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/python.svg)
+![CSS](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/css3.svg)
+![Node.js](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/node-dot-js.svg)
 
 ### **Software**
-![Apache2](https://img.icons8.com/ios-filled/50/000000/apache.png) 
-![Nginx](https://img.icons8.com/ios-filled/50/000000/nginx.png) 
-![Git](https://img.icons8.com/ios-filled/50/000000/git.png)
-![VSCode](https://img.icons8.com/ios-filled/50/000000/visual-studio-code.png)
-![OBS](https://img.icons8.com/ios-filled/50/000000/obs-studio.png) 
-![Clipchamp](https://img.icons8.com/ios-filled/50/000000/clipchamp.png)
+![Apache2](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/apache.svg)
+![Nginx](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/nginx.svg)
+![Git](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/git.svg)
+![VSCode](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/visualstudiocode.svg)
+![OBS](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/obsstudio.svg)
+![Clipchamp](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/clipchamp.svg)
 
 ### **Cloud**
-![AWS](https://img.icons8.com/ios-filled/50/000000/amazon-web-services.png) 
-![Google Cloud](https://img.icons8.com/ios-filled/50/000000/google-cloud.png) 
-![Azure](https://img.icons8.com/ios-filled/50/000000/microsoft-azure.png)
+![AWS](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/amazonaws.svg)
+![Google Cloud](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/googlecloud.svg)
+![Azure](https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/microsoftazure.svg)
