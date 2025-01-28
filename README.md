@@ -12,7 +12,7 @@ Here is all about me :3
 - 😄 ```Pronouns:``` Assult Rifle! jk he/him
 - ⚡``` Fun fact:``` Every 60 seconds in Asia makes a minute
 - 📄 ```Website:``` [https://gainways.online](https://gainways.online)
-- ✨ ```My projects can be:```About Anythig
+- ✨ ```My projects can be:```About Anything
 
 ## 🛠️ Skills
 
