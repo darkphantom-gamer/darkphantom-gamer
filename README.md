@@ -15,7 +15,8 @@ Here is all about me :3
 - 📄 ```Website:``` [https://gainways.online](https://gainways.online)
 - ✨ ```My projects can be:```About Anything
 
-~Current Rearch Topic For New Project~
+##Current Rearch Topic For New Project
+
 -🏢```Mega project:``` Multiversal Gaming
 -💵```Estimated Money for Start:``` $10Million
 
