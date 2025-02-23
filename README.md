@@ -13,7 +13,7 @@ Here is all about me :3
 - 😄 ```Pronouns:``` Assult Rifle! jk he/him
 - 💻 ```I'm:``` Proficient Pentester & Subnetting veteran⚔️
 - ⚡``` Fun fact:``` Every 60 seconds in Asia makes a minute
-- 📄 ```Website:``` [https://gainways.online](https://gainways.online)
+- 📄 ```Website:``` [https://gainways.online](https:/www.thegainway.com)
 - ✨ ```My projects can be:```About Anything
 
 ## Current Rearch Topic For New Project
