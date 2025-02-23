@@ -9,7 +9,7 @@ Here is all about me :3
 - 👯 ```I’m looking to collaborate on: ```Anything :D
 - ⚡ ```I'm:``` 18 y/o
 - 🏢 ```Founder & Ceo of:``` Gain Way
-- 📧 ```Email:``` himkamal@gainways.online
+- 📧 ```Email:``` himkamal@thegainway.com
 - 😄 ```Pronouns:``` Assult Rifle! jk he/him
 - 💻 ```I'm:``` Proficient Pentester & Subnetting veteran⚔️
 - ⚡``` Fun fact:``` Every 60 seconds in Asia makes a minute
