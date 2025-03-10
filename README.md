@@ -15,7 +15,8 @@ Here is all about me :3
 - 😄 ```Pronouns:``` Assult Rifle! jk he/him
 - 💻 ```I'm:``` Proficient Pentester & Subnetting veteran⚔️
 - ⚡``` Fun fact:``` Every 60 seconds in Asia makes a minute
-- 📄 ```Website:``` [https://www.thegainway.com](https://www.thegainway.com)
+- 📄 ```Website:``` [https://www.gainway.in](https://www.gainway.in)
+- 📄 ```Website:``` [https://www.centralhealthway.com](https://www.centralhealthway.com)
 - ✨ ```My projects can be:```About Anything
 
 ## Current Rearch Topic For New Project
