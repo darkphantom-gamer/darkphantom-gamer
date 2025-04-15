@@ -8,8 +8,7 @@ Here is all about me :3
 - 🌱``` I’m currently learning:```AI & Neural Network
 - 👯 ```I’m looking to collaborate on: ```Anything :D
 - ⚡ ```I'm:``` 18 y/o
-- 🏢 ```Founder & Ceo of:``` Gain Way
-- 🏛️ ```Co-Founder of:``` Central Healthway
+- 🏢 ```Founder & Ceo of:``` Gain Way & Central Healthway
 - 📧 ```Email:``` himkamal@gainway.in
 - 📧 ```Email:``` himkamal@centralhealthway.com
 - 😄 ```Pronouns:``` Assult Rifle! jk he/him
