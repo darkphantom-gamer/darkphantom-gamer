@@ -9,10 +9,10 @@ Here is all about me :3
 - 👯 ```I’m looking to collaborate on: ```Anything :D
 - ⚡ ```I'm:``` 18 y/o
 - 🏢 ```Founder & Ceo of:``` Gain Way & Central Healthway
-- 📧 ```Email:``` himkamal@mail.gainway.in
+- 📧 ```Email:``` himkamal@gainway.in
 - 📧 ```Email:``` himkamal@centralhealthway.com
 - 😄 ```Pronouns:``` Assult Rifle! jk he/him
-- 💻 ```I'm:``` Proficient Pentester & Subnetting veteran⚔️
+- 💻 ```I'm:``` Proficient Pentester
 - ⚡``` Fun fact:``` Every 60 seconds in Asia makes a minute
 - 📄 ```Website:``` [https://www.gainway.in](https://www.gainway.in)
 - 📄 ```Website:``` [https://www.centralhealthway.com](https://www.centralhealthway.com)
