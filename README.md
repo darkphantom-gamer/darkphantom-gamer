@@ -22,7 +22,6 @@ Here is all about me :3
 
 -🏢```Mega project:``` Multiversal Gaming
 
--💵```Estimated Money for Start:``` $10Million
 
 ## 🛠️ Skills
 
