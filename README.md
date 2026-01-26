@@ -7,20 +7,15 @@ Here is all about me :3
 - 🧑🏿‍💻 ``` Gray Hat:``` For Fun!
 - 🌱``` I’m currently learning:```AI & Neural Network
 - 👯 ```I’m looking to collaborate on: ```Anything :D
-- ⚡ ```I'm:``` 18 y/o
+- ⚡ ```I'm:``` 20 y/o
 - 🏢 ```Founder & Ceo of:``` Gain Way & Central Healthway
 - 📧 ```Email:``` himkamal@gainway.in
-- 📧 ```Email:``` himkamal@centralhealthway.com
 - 😄 ```Pronouns:``` Assult Rifle! jk he/him
-- 💻 ```I'm:``` Proficient Pentester
+- 💻 ```I'm:``` Hyuman
 - ⚡``` Fun fact:``` Every 60 seconds in Asia makes a minute
 - 📄 ```Website:``` [https://www.gainway.in](https://www.gainway.in)
 - 📄 ```Website:``` [https://www.centralhealthway.com](https://www.centralhealthway.com)
 - ✨ ```My projects can be:```About Anything
-
-## Current Rearch Topic For New Project
-
--🏢```Mega project:``` Multiversal Gaming
 
 
 ## 🛠️ Skills
