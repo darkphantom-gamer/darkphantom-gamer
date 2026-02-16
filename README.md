@@ -4,8 +4,7 @@ Here is all about me :3
 
 - 🔭 ```
     I’m currently working on:``` Research and Development Projects
-- 🧑🏿‍💻 ``` Gray Hat:``` For Fun!
-- 🌱``` I’m currently learning:``` Business and Entrepreneurship
+- 🌱``` I’m currently learning:``` ```Business and Entrepreneurship ``` ```Human Health and Enviromental Technology```
 - 👯 ```I’m looking to collaborate on: ```Anything :D
 - ⚡ ```I'm:``` 20 y/o
 - 🏢 ```Founder & Ceo of:``` Gain Way 
