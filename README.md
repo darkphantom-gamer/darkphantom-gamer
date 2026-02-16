@@ -52,10 +52,6 @@ Here is all about me :3
 - I specialize in building efficient and scalable AI tools and have experience in web development and cloud solutions.
 - ```I'm an IT admin by profession```, and I'm always looking for new ways to innovate and help businesses grow.
 
-## 📈 GitHub Stats
-
-![Himamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username-here&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-``` lol Why tf I even Included that anyway ```
 
 ## 📫 How to reach me:
 
