@@ -3,9 +3,9 @@
 Here is all about me :3
 
 - 🔭 ```
-    I’m currently working on:``` Vulnerability assessment & Bug bounty
+    I’m currently working on:``` Research and Development Projects
 - 🧑🏿‍💻 ``` Gray Hat:``` For Fun!
-- 🌱``` I’m currently learning:```AI & Neural Network
+- 🌱``` I’m currently learning:``` Business and Entrepreneurship
 - 👯 ```I’m looking to collaborate on: ```Anything :D
 - ⚡ ```I'm:``` 20 y/o
 - 🏢 ```Founder & Ceo of:``` Gain Way 
